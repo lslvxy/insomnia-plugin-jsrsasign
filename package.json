@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-jsrsasign",
+  "version": "0.1.0",
+  "private": true,
+  "insomnia": {
+    "name": "jsrsasign",
+    "description": "Request signing plugin using jsrsasign"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "jsrsasign": "^11.1.1"
+  }
+}
